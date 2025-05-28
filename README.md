@@ -20,5 +20,10 @@ This project demonstrates how to make a successful API call to OpenAI's `gpt-3.5
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/first-api-call.git
+git clone https://github.com/Misal-Ambasta/first-openai-api-call
 cd first-api-call
+npm install
+node first_call.js
+
+![image](https://github.com/user-attachments/assets/c995705e-c4fe-4cad-9f8a-87ca2033179c)
+
